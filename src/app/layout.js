@@ -23,8 +23,8 @@ const inter = Inter({
 // --- End Font Setup ---
 
 export const metadata = {
-  title: "Hero Counter Finder | Joy UI",
-  description: "Find hero counters based on win rate data using MUI Joy UI",
+  title: "Hero Counter",
+  description: "Find hero counters based on win rate data",
 };
 
 export default function RootLayout({ children }) {
