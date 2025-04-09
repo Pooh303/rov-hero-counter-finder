@@ -1,0 +1,1587 @@
+[
+  {
+    "name": "Wisp",
+    "type": "แครี่",
+    "win_rate": "55.6%",
+    "play_rate": "2.89%",
+    "ban_rate": "0.05%",
+    "countered_heroes": [
+      "Moren",
+      "Celica",
+      "Elsu"
+    ],
+    "image": "508.jpg"
+  },
+  {
+    "name": "Ming",
+    "type": "ซัพพอร์ท",
+    "win_rate": "55.03%",
+    "play_rate": "3.89%",
+    "ban_rate": "0.23%",
+    "countered_heroes": [
+      "Aya",
+      "Ata",
+      "Annette"
+    ],
+    "image": "568.png"
+  },
+  {
+    "name": "Bolt Baron",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "54.18%",
+    "play_rate": "14.25%",
+    "ban_rate": "14.39%",
+    "countered_heroes": [
+      "Kil'Groth",
+      "Superman",
+      "Charlotte"
+    ],
+    "image": "598.png"
+  },
+  {
+    "name": "TeeMee",
+    "type": "ซัพพอร์ท",
+    "win_rate": "53.94%",
+    "play_rate": "3.88%",
+    "ban_rate": "13.39%",
+    "countered_heroes": [
+      "Aya",
+      "Annette",
+      "Helen"
+    ],
+    "image": "186.jpg"
+  },
+  {
+    "name": "Enzo",
+    "type": "แอสซาซิน",
+    "win_rate": "53.89%",
+    "play_rate": "10.13%",
+    "ban_rate": "16.36%",
+    "countered_heroes": [
+      "Quillen",
+      "Butterfly",
+      "Paine"
+    ],
+    "image": "195.jpg"
+  },
+  {
+    "name": "Dirak",
+    "type": "เมจ",
+    "win_rate": "53.7%",
+    "play_rate": "1.57%",
+    "ban_rate": "0.01%",
+    "countered_heroes": [
+      "Sephera",
+      "Natalya",
+      "Ishar"
+    ],
+    "image": "530.jpg"
+  },
+  {
+    "name": "Marja",
+    "type": "เมจ",
+    "win_rate": "53.47%",
+    "play_rate": "8.79%",
+    "ban_rate": "18.46%",
+    "countered_heroes": [
+      "Jinna",
+      "Mganga",
+      "Natalya"
+    ],
+    "image": "121.jpg"
+  },
+  {
+    "name": "Eland'orr",
+    "type": "แครี่",
+    "win_rate": "53.44%",
+    "play_rate": "9.13%",
+    "ban_rate": "0.46%",
+    "countered_heroes": [
+      "Hayate",
+      "Elsu",
+      "Slimz"
+    ],
+    "image": "199.jpg"
+  },
+  {
+    "name": "Grakk",
+    "type": "ซัพพอร์ท",
+    "win_rate": "53.38%",
+    "play_rate": "15%",
+    "ban_rate": "34.84%",
+    "countered_heroes": [
+      "Aya",
+      "Rouie",
+      "Helen"
+    ],
+    "image": "175.jpg"
+  },
+  {
+    "name": "Diao chan",
+    "type": "เมจ",
+    "win_rate": "53.38%",
+    "play_rate": "5.95%",
+    "ban_rate": "0.08%",
+    "countered_heroes": [
+      "Lorion",
+      "Mganga",
+      "Jinna"
+    ],
+    "image": "152.jpg"
+  },
+  {
+    "name": "Ilumia",
+    "type": "เมจ",
+    "win_rate": "53.14%",
+    "play_rate": "4.62%",
+    "ban_rate": "0.05%",
+    "countered_heroes": [
+      "Jinna",
+      "Ishar",
+      "Natalya"
+    ],
+    "image": "136.jpg"
+  },
+  {
+    "name": "Preyta",
+    "type": "เมจ",
+    "win_rate": "53.02%",
+    "play_rate": "0.71%",
+    "ban_rate": "0.07%",
+    "countered_heroes": [
+      "Lorion",
+      "Kahlii",
+      "Ignis"
+    ],
+    "image": "148.jpg"
+  },
+  {
+    "name": "Wonder Woman",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "52.84%",
+    "play_rate": "1.02%",
+    "ban_rate": "0.01%",
+    "countered_heroes": [
+      "Dextra",
+      "Superman",
+      "Charlotte"
+    ],
+    "image": "504.jpg"
+  },
+  {
+    "name": "Rourke",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "52.74%",
+    "play_rate": "3.05%",
+    "ban_rate": "0.11%",
+    "countered_heroes": [
+      "Zuka",
+      "Dextra",
+      "Airi"
+    ],
+    "image": "512.jpg"
+  },
+  {
+    "name": "Billow",
+    "type": "แอสซาซิน",
+    "win_rate": "52.65%",
+    "play_rate": "10.51%",
+    "ban_rate": "37.7%",
+    "countered_heroes": [
+      "Paine",
+      "Butterfly",
+      "WuKong"
+    ],
+    "image": "599.png"
+  },
+  {
+    "name": "Roxie",
+    "type": "แทงค์",
+    "win_rate": "52.61%",
+    "play_rate": "2.08%",
+    "ban_rate": "0.03%",
+    "countered_heroes": [
+      "Chaugnar",
+      "Max",
+      "Baldum"
+    ],
+    "image": "514.jpg"
+  },
+  {
+    "name": "Lumburr",
+    "type": "ซัพพอร์ท",
+    "win_rate": "52.59%",
+    "play_rate": "2.94%",
+    "ban_rate": "0.02%",
+    "countered_heroes": [
+      "Krizzix",
+      "Rouie",
+      "Aya"
+    ],
+    "image": "168.jpg"
+  },
+  {
+    "name": "Tachi",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "52.32%",
+    "play_rate": "3.88%",
+    "ban_rate": "0.11%",
+    "countered_heroes": [
+      "Superman",
+      "Mortos",
+      "Astrid"
+    ],
+    "image": "542.jpg"
+  },
+  {
+    "name": "Keera",
+    "type": "แอสซาซิน",
+    "win_rate": "52.07%",
+    "play_rate": "14.63%",
+    "ban_rate": "1.11%",
+    "countered_heroes": [
+      "Paine",
+      "Butterfly",
+      "Kriknak"
+    ],
+    "image": "531.jpg"
+  },
+  {
+    "name": "Qi",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "51.91%",
+    "play_rate": "7.1%",
+    "ban_rate": "0.06%",
+    "countered_heroes": [
+      "Dextra",
+      "Riktor",
+      "Mortos"
+    ],
+    "image": "528.jpg"
+  },
+  {
+    "name": "Xeniel",
+    "type": "แทงค์",
+    "win_rate": "51.87%",
+    "play_rate": "2.35%",
+    "ban_rate": "0.1%",
+    "countered_heroes": [
+      "Chaugnar",
+      "Taara",
+      "Wiro"
+    ],
+    "image": "149.jpg"
+  },
+  {
+    "name": "Fennik",
+    "type": "แครี่",
+    "win_rate": "51.65%",
+    "play_rate": "14.07%",
+    "ban_rate": "0.56%",
+    "countered_heroes": [
+      "Elsu",
+      "Hayate",
+      "Laville"
+    ],
+    "image": "173.jpg"
+  },
+  {
+    "name": "Teeri",
+    "type": "แครี่",
+    "win_rate": "51.62%",
+    "play_rate": "14.63%",
+    "ban_rate": "0.53%",
+    "countered_heroes": [
+      "Elsu",
+      "Yorn",
+      "Capheny"
+    ],
+    "image": "546.jpg"
+  },
+  {
+    "name": "Arduin",
+    "type": "แทงค์",
+    "win_rate": "51.56%",
+    "play_rate": "8.29%",
+    "ban_rate": "0.03%",
+    "countered_heroes": [
+      "Taara",
+      "Baldum",
+      "Gildur"
+    ],
+    "image": "126.jpg"
+  },
+  {
+    "name": "Ormarr",
+    "type": "แทงค์",
+    "win_rate": "51.56%",
+    "play_rate": "1.96%",
+    "ban_rate": "0.01%",
+    "countered_heroes": [
+      "Wiro",
+      "Gildur",
+      "Taara"
+    ],
+    "image": "117.jpg"
+  },
+  {
+    "name": "Azzen'Ka",
+    "type": "เมจ",
+    "win_rate": "51.54%",
+    "play_rate": "3.59%",
+    "ban_rate": "0.03%",
+    "countered_heroes": [
+      "Mganga",
+      "Natalya",
+      "Ishar"
+    ],
+    "image": "127.jpg"
+  },
+  {
+    "name": "Zip",
+    "type": "ซัพพอร์ท",
+    "win_rate": "51.47%",
+    "play_rate": "3.06%",
+    "ban_rate": "1.91%",
+    "countered_heroes": [
+      "Helen",
+      "Aya",
+      "Arum"
+    ],
+    "image": "525.jpg"
+  },
+  {
+    "name": "Arum",
+    "type": "ซัพพอร์ท",
+    "win_rate": "51.45%",
+    "play_rate": "10.96%",
+    "ban_rate": "1.6%",
+    "countered_heroes": [
+      "Aya",
+      "Annette",
+      "Rouie"
+    ],
+    "image": "187.jpg"
+  },
+  {
+    "name": "Wiro",
+    "type": "แทงค์",
+    "win_rate": "51.38%",
+    "play_rate": "0.57%",
+    "ban_rate": "0.04%",
+    "countered_heroes": [
+      "Max",
+      "Y'bneth",
+      "Taara"
+    ],
+    "image": "194.jpg"
+  },
+  {
+    "name": "Florentino",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "51.29%",
+    "play_rate": "15.28%",
+    "ban_rate": "13.68%",
+    "countered_heroes": [
+      "Kil'Groth",
+      "Allain",
+      "Charlotte"
+    ],
+    "image": "521.jpg"
+  },
+  {
+    "name": "Zill",
+    "type": "แอสซาซิน",
+    "win_rate": "51.29%",
+    "play_rate": "7.9%",
+    "ban_rate": "0.06%",
+    "countered_heroes": [
+      "Butterfly",
+      "Paine",
+      "WuKong"
+    ],
+    "image": "146.jpg"
+  },
+  {
+    "name": "Bijan",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "51.26%",
+    "play_rate": "6.41%",
+    "ban_rate": "0.4%",
+    "countered_heroes": [
+      "Amily",
+      "Zuka",
+      "Airi"
+    ],
+    "image": "548.jpg"
+  },
+  {
+    "name": "Lauriel",
+    "type": "เมจ",
+    "win_rate": "51.23%",
+    "play_rate": "13.04%",
+    "ban_rate": "0.45%",
+    "countered_heroes": [
+      "Ishar",
+      "Natalya",
+      "Jinna"
+    ],
+    "image": "141.jpg"
+  },
+  {
+    "name": "Max",
+    "type": "แทงค์",
+    "win_rate": "51.15%",
+    "play_rate": "0.73%",
+    "ban_rate": "0.01%",
+    "countered_heroes": [
+      "Taara",
+      "Baldum",
+      "Omega"
+    ],
+    "image": "180.jpg"
+  },
+  {
+    "name": "Sephera",
+    "type": "เมจ",
+    "win_rate": "51.06%",
+    "play_rate": "2.16%",
+    "ban_rate": "0.02%",
+    "countered_heroes": [
+      "Jinna",
+      "Natalya",
+      "Mganga"
+    ],
+    "image": "527.jpg"
+  },
+  {
+    "name": "Tulen",
+    "type": "เมจ",
+    "win_rate": "51.06%",
+    "play_rate": "11.63%",
+    "ban_rate": "0.06%",
+    "countered_heroes": [
+      "Mganga",
+      "Ishar",
+      "Natalya"
+    ],
+    "image": "190.jpg"
+  },
+  {
+    "name": "Ignis",
+    "type": "เมจ",
+    "win_rate": "51.05%",
+    "play_rate": "7.69%",
+    "ban_rate": "0.04%",
+    "countered_heroes": [
+      "Jinna",
+      "Natalya",
+      "Mganga"
+    ],
+    "image": "124.jpg"
+  },
+  {
+    "name": "Moren",
+    "type": "แครี่",
+    "win_rate": "51%",
+    "play_rate": "0.53%",
+    "ban_rate": "0.06%",
+    "countered_heroes": [
+      "Capheny",
+      "Erin",
+      "Elsu"
+    ],
+    "image": "170.jpg"
+  },
+  {
+    "name": "Skud",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "50.96%",
+    "play_rate": "3.77%",
+    "ban_rate": "0.03%",
+    "countered_heroes": [
+      "Zuka",
+      "Lu Bu",
+      "Superman"
+    ],
+    "image": "134.jpg"
+  },
+  {
+    "name": "Bonnie",
+    "type": "เมจ",
+    "win_rate": "50.88%",
+    "play_rate": "2.73%",
+    "ban_rate": "0.04%",
+    "countered_heroes": [
+      "Mganga",
+      "Natalya",
+      "Aleister"
+    ],
+    "image": "541.jpg"
+  },
+  {
+    "name": "Biron",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "50.78%",
+    "play_rate": "8.55%",
+    "ban_rate": "0.74%",
+    "countered_heroes": [
+      "Zuka",
+      "Zephys",
+      "Amily"
+    ],
+    "image": "597.png"
+  },
+  {
+    "name": "Celica",
+    "type": "แครี่",
+    "win_rate": "50.77%",
+    "play_rate": "1.51%",
+    "ban_rate": "0.01%",
+    "countered_heroes": [
+      "Capheny",
+      "Moren",
+      "Thorne"
+    ],
+    "image": "192.jpg"
+  },
+  {
+    "name": "Aleister",
+    "type": "เมจ",
+    "win_rate": "50.73%",
+    "play_rate": "9.21%",
+    "ban_rate": "1.1%",
+    "countered_heroes": [
+      "Lauriel",
+      "Kahlii",
+      "Mganga"
+    ],
+    "image": "156.jpg"
+  },
+  {
+    "name": "Yena",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "50.72%",
+    "play_rate": "14.97%",
+    "ban_rate": "0.11%",
+    "countered_heroes": [
+      "Dextra",
+      "Allain",
+      "Superman"
+    ],
+    "image": "154.jpg"
+  },
+  {
+    "name": "Kaine",
+    "type": "แอสซาซิน",
+    "win_rate": "50.7%",
+    "play_rate": "4.99%",
+    "ban_rate": "2.21%",
+    "countered_heroes": [
+      "Paine",
+      "WuKong",
+      "Kriknak"
+    ],
+    "image": "153N.jpg"
+  },
+  {
+    "name": "Krixi",
+    "type": "เมจ",
+    "win_rate": "50.6%",
+    "play_rate": "34.71%",
+    "ban_rate": "0.97%",
+    "countered_heroes": [
+      "Natalya",
+      "Kahlii",
+      "Mganga"
+    ],
+    "image": "106.jpg"
+  },
+  {
+    "name": "Raz",
+    "type": "แอสซาซิน",
+    "win_rate": "50.54%",
+    "play_rate": "19.64%",
+    "ban_rate": "0.95%",
+    "countered_heroes": [
+      "Paine",
+      "Quillen",
+      "Butterfly"
+    ],
+    "image": "157.jpg"
+  },
+  {
+    "name": "Bright",
+    "type": "แอสซาซิน",
+    "win_rate": "50.47%",
+    "play_rate": "4.44%",
+    "ban_rate": "0.03%",
+    "countered_heroes": [
+      "Paine",
+      "Butterfly",
+      "WuKong"
+    ],
+    "image": "540.jpg"
+  },
+  {
+    "name": "Murad",
+    "type": "แอสซาซิน",
+    "win_rate": "50.36%",
+    "play_rate": "10.87%",
+    "ban_rate": "32.75%",
+    "countered_heroes": [
+      "Butterfly",
+      "Kriknak",
+      "Paine"
+    ],
+    "image": "131.jpg"
+  },
+  {
+    "name": "Mina",
+    "type": "แทงค์",
+    "win_rate": "50.35%",
+    "play_rate": "9.53%",
+    "ban_rate": "0.1%",
+    "countered_heroes": [
+      "Taara",
+      "Gildur",
+      "Xeniel"
+    ],
+    "image": "120.jpg"
+  },
+  {
+    "name": "Nakroth",
+    "type": "แอสซาซิน",
+    "win_rate": "50.33%",
+    "play_rate": "31.24%",
+    "ban_rate": "2.32%",
+    "countered_heroes": [
+      "Quillen",
+      "Paine",
+      "Butterfly"
+    ],
+    "image": "150.jpg"
+  },
+  {
+    "name": "Iggy",
+    "type": "เมจ",
+    "win_rate": "50.33%",
+    "play_rate": "5.33%",
+    "ban_rate": "0.08%",
+    "countered_heroes": [
+      "Natalya",
+      "Mganga",
+      "Yue"
+    ],
+    "image": "538.jpg"
+  },
+  {
+    "name": "Veres",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "50.32%",
+    "play_rate": "5.15%",
+    "ban_rate": "0.02%",
+    "countered_heroes": [
+      "Zephys",
+      "Zuka",
+      "Mortos"
+    ],
+    "image": "520.jpg"
+  },
+  {
+    "name": "Volkath",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "50.22%",
+    "play_rate": "4.91%",
+    "ban_rate": "0.19%",
+    "countered_heroes": [
+      "Dextra",
+      "Zephys",
+      "Kil'Groth"
+    ],
+    "image": "529.jpg"
+  },
+  {
+    "name": "Thane",
+    "type": "แทงค์",
+    "win_rate": "50.22%",
+    "play_rate": "5.83%",
+    "ban_rate": "0.04%",
+    "countered_heroes": [
+      "Baldum",
+      "Taara",
+      "Gildur"
+    ],
+    "image": "135.jpg"
+  },
+  {
+    "name": "Valhein",
+    "type": "แครี่",
+    "win_rate": "50.21%",
+    "play_rate": "37.8%",
+    "ban_rate": "12.23%",
+    "countered_heroes": [
+      "Laville",
+      "Yorn",
+      "Elsu"
+    ],
+    "image": "133.jpg"
+  },
+  {
+    "name": "D'Arcy",
+    "type": "เมจ",
+    "win_rate": "50.19%",
+    "play_rate": "2.26%",
+    "ban_rate": "0.01%",
+    "countered_heroes": [
+      "Jinna",
+      "Mganga",
+      "Natalya"
+    ],
+    "image": "523.jpg"
+  },
+  {
+    "name": "Y'bneth",
+    "type": "แทงค์",
+    "win_rate": "50.13%",
+    "play_rate": "3.68%",
+    "ban_rate": "0.06%",
+    "countered_heroes": [
+      "Taara",
+      "Gildur",
+      "Chaugnar"
+    ],
+    "image": "509.jpg"
+  },
+  {
+    "name": "The Joker",
+    "type": "แครี่",
+    "win_rate": "50.12%",
+    "play_rate": "14.9%",
+    "ban_rate": "4.19%",
+    "countered_heroes": [
+      "Thorne",
+      "Capheny",
+      "Yorn"
+    ],
+    "image": "Stuart.png"
+  },
+  {
+    "name": "Toro",
+    "type": "แทงค์",
+    "win_rate": "50.09%",
+    "play_rate": "16.33%",
+    "ban_rate": "1.43%",
+    "countered_heroes": [
+      "Taara",
+      "Gildur",
+      "Omega"
+    ],
+    "image": "105.jpg"
+  },
+  {
+    "name": "Aoi",
+    "type": "แอสซาซิน",
+    "win_rate": "50.07%",
+    "play_rate": "3.61%",
+    "ban_rate": "0.28%",
+    "countered_heroes": [
+      "Kriknak",
+      "Butterfly",
+      "Paine"
+    ],
+    "image": "536.jpg"
+  },
+  {
+    "name": "Ryoma",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "50.06%",
+    "play_rate": "7.22%",
+    "ban_rate": "0.06%",
+    "countered_heroes": [
+      "Allain",
+      "Dextra",
+      "Kil'Groth"
+    ],
+    "image": "163.jpg"
+  },
+  {
+    "name": "Omega",
+    "type": "แทงค์",
+    "win_rate": "50.04%",
+    "play_rate": "2.24%",
+    "ban_rate": "0.02%",
+    "countered_heroes": [
+      "Wiro",
+      "Thane",
+      "Ormarr"
+    ],
+    "image": "114.jpg"
+  },
+  {
+    "name": "Erin",
+    "type": "แครี่",
+    "win_rate": "49.99%",
+    "play_rate": "3.65%",
+    "ban_rate": "0.1%",
+    "countered_heroes": [
+      "Slimz",
+      "Yorn"
+    ],
+    "image": "567.png"
+  },
+  {
+    "name": "Yue",
+    "type": "เมจ",
+    "win_rate": "49.91%",
+    "play_rate": "9.39%",
+    "ban_rate": "5.75%",
+    "countered_heroes": [
+      "Jinna",
+      "Mganga",
+      "Natalya"
+    ],
+    "image": "545.jpg"
+  },
+  {
+    "name": "Ata",
+    "type": "ซัพพอร์ท",
+    "win_rate": "49.88%",
+    "play_rate": "0.44%",
+    "ban_rate": "0.01%",
+    "countered_heroes": [
+      "Dolia",
+      "Krizzix",
+      "Lumburr"
+    ],
+    "image": "511.jpg"
+  },
+  {
+    "name": "Violet",
+    "type": "แครี่",
+    "win_rate": "49.87%",
+    "play_rate": "34.23%",
+    "ban_rate": "0.24%",
+    "countered_heroes": [
+      "Capheny",
+      "Yorn",
+      "Laville"
+    ],
+    "image": "111.jpg"
+  },
+  {
+    "name": "Sinestrea",
+    "type": "แอสซาซิน",
+    "win_rate": "49.79%",
+    "play_rate": "2.11%",
+    "ban_rate": "0.02%",
+    "countered_heroes": [
+      "Paine",
+      "Kriknak",
+      "Butterfly"
+    ],
+    "image": "535.jpg"
+  },
+  {
+    "name": "The Flash",
+    "type": "แอสซาซิน",
+    "win_rate": "49.75%",
+    "play_rate": "1.19%",
+    "ban_rate": "0.05%",
+    "countered_heroes": [
+      "Kriknak",
+      "Butterfly",
+      "Zata"
+    ],
+    "image": "507.jpg"
+  },
+  {
+    "name": "Veera",
+    "type": "เมจ",
+    "win_rate": "49.74%",
+    "play_rate": "19.6%",
+    "ban_rate": "1.24%",
+    "countered_heroes": [
+      "Jinna",
+      "Kahlii",
+      "Mganga"
+    ],
+    "image": "109.jpg"
+  },
+  {
+    "name": "Lindis",
+    "type": "แครี่",
+    "win_rate": "49.74%",
+    "play_rate": "1.52%",
+    "ban_rate": "0.01%",
+    "countered_heroes": [
+      "Laville",
+      "Capheny",
+      "Moren"
+    ],
+    "image": "177.jpg"
+  },
+  {
+    "name": "Astrid",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "49.73%",
+    "play_rate": "1.39%",
+    "ban_rate": "0.01%",
+    "countered_heroes": [
+      "Mortos",
+      "Lu Bu",
+      "Airi"
+    ],
+    "image": "502.jpg"
+  },
+  {
+    "name": "Zata",
+    "type": "แอสซาซิน",
+    "win_rate": "49.71%",
+    "play_rate": "3.88%",
+    "ban_rate": "0.2%",
+    "countered_heroes": [
+      "Quillen",
+      "Paine",
+      "Butterfly"
+    ],
+    "image": "513.jpg"
+  },
+  {
+    "name": "Krizzix",
+    "type": "ซัพพอร์ท",
+    "win_rate": "49.71%",
+    "play_rate": "8.18%",
+    "ban_rate": "1.17%",
+    "countered_heroes": [
+      "Helen",
+      "Aya",
+      "Alice"
+    ],
+    "image": "189.jpg"
+  },
+  {
+    "name": "Helen",
+    "type": "ซัพพอร์ท",
+    "win_rate": "49.65%",
+    "play_rate": "1.38%",
+    "ban_rate": "0.05%",
+    "countered_heroes": [
+      "Cresht",
+      "Rouie",
+      "Annette"
+    ],
+    "image": "184.jpg"
+  },
+  {
+    "name": "Dolia",
+    "type": "ซัพพอร์ท",
+    "win_rate": "49.57%",
+    "play_rate": "7.34%",
+    "ban_rate": "1.29%",
+    "countered_heroes": [
+      "Cresht",
+      "Rouie",
+      "Annette"
+    ],
+    "image": "159.png"
+  },
+  {
+    "name": "Hayate",
+    "type": "แครี่",
+    "win_rate": "49.57%",
+    "play_rate": "23.45%",
+    "ban_rate": "1.41%",
+    "countered_heroes": [
+      "Elsu",
+      "Laville",
+      "Celica"
+    ],
+    "image": "132.jpg"
+  },
+  {
+    "name": "Thorne",
+    "type": "แครี่",
+    "win_rate": "49.53%",
+    "play_rate": "2.76%",
+    "ban_rate": "0.02%",
+    "countered_heroes": [
+      "Yorn",
+      "Tel'Annas",
+      "Lindis"
+    ],
+    "image": "532.jpg"
+  },
+  {
+    "name": "Errol",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "49.44%",
+    "play_rate": "5.62%",
+    "ban_rate": "0.05%",
+    "countered_heroes": [
+      "Lu Bu",
+      "Mortos",
+      "Allain"
+    ],
+    "image": "522.jpg"
+  },
+  {
+    "name": "Slimz",
+    "type": "แครี่",
+    "win_rate": "49.43%",
+    "play_rate": "3.52%",
+    "ban_rate": "0.02%",
+    "countered_heroes": [
+      "Moren",
+      "Lindis",
+      "Elsu"
+    ],
+    "image": "169.jpg"
+  },
+  {
+    "name": "Liliana",
+    "type": "เมจ",
+    "win_rate": "49.41%",
+    "play_rate": "14.93%",
+    "ban_rate": "0.24%",
+    "countered_heroes": [
+      "Jinna",
+      "Natalya",
+      "Mganga"
+    ],
+    "image": "510.jpg"
+  },
+  {
+    "name": "Tel'Annas",
+    "type": "แครี่",
+    "win_rate": "49.38%",
+    "play_rate": "35.59%",
+    "ban_rate": "0.92%",
+    "countered_heroes": [
+      "Yorn",
+      "Capheny",
+      "Elsu"
+    ],
+    "image": "501.jpg"
+  },
+  {
+    "name": "Alice",
+    "type": "ซัพพอร์ท",
+    "win_rate": "49.37%",
+    "play_rate": "13.65%",
+    "ban_rate": "0.27%",
+    "countered_heroes": [
+      "Rouie",
+      "Dolia",
+      "Aya"
+    ],
+    "image": "118.jpg"
+  },
+  {
+    "name": "Annette",
+    "type": "ซัพพอร์ท",
+    "win_rate": "49.34%",
+    "play_rate": "1.73%",
+    "ban_rate": "0.02%",
+    "countered_heroes": [
+      "Ata",
+      "Krizzix",
+      "Rouie"
+    ],
+    "image": "519.jpg"
+  },
+  {
+    "name": "Cresht",
+    "type": "ซัพพอร์ท",
+    "win_rate": "49.25%",
+    "play_rate": "8.96%",
+    "ban_rate": "0.1%",
+    "countered_heroes": [
+      "Rouie",
+      "Aya",
+      "Alice"
+    ],
+    "image": "171.jpg"
+  },
+  {
+    "name": "Capheny",
+    "type": "แครี่",
+    "win_rate": "49.19%",
+    "play_rate": "5.26%",
+    "ban_rate": "0.02%",
+    "countered_heroes": [
+      "Elsu",
+      "Yorn",
+      "Hayate"
+    ],
+    "image": "524.jpg"
+  },
+  {
+    "name": "Lorion",
+    "type": "เมจ",
+    "win_rate": "49.01%",
+    "play_rate": "1.08%",
+    "ban_rate": "0.02%",
+    "countered_heroes": [
+      "D'Arcy",
+      "Natalya",
+      "Ishar"
+    ],
+    "image": "539.jpg"
+  },
+  {
+    "name": "Maloch",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "48.96%",
+    "play_rate": "12.12%",
+    "ban_rate": "0.13%",
+    "countered_heroes": [
+      "Mortos",
+      "Omen",
+      "Zephys"
+    ],
+    "image": "123.jpg"
+  },
+  {
+    "name": "Riktor",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "48.85%",
+    "play_rate": "6.7%",
+    "ban_rate": "0.05%",
+    "countered_heroes": [
+      "Dextra",
+      "Allain",
+      "Mortos"
+    ],
+    "image": "515.jpg"
+  },
+  {
+    "name": "Charlotte",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "48.76%",
+    "play_rate": "1.98%",
+    "ban_rate": "0.03%",
+    "countered_heroes": [
+      "Airi",
+      "Allain",
+      "Superman"
+    ],
+    "image": "206.png"
+  },
+  {
+    "name": "Zephys",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "48.74%",
+    "play_rate": "2.89%",
+    "ban_rate": "0.02%",
+    "countered_heroes": [
+      "Kil'Groth",
+      "Lu Bu",
+      "Mortos"
+    ],
+    "image": "107.jpg"
+  },
+  {
+    "name": "Omen",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "48.68%",
+    "play_rate": "7.27%",
+    "ban_rate": "0.1%",
+    "countered_heroes": [
+      "Mortos",
+      "Zuka",
+      "Lu Bu"
+    ],
+    "image": "506.jpg"
+  },
+  {
+    "name": "Amily",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "48.67%",
+    "play_rate": "5.93%",
+    "ban_rate": "0.03%",
+    "countered_heroes": [
+      "Allain",
+      "Mortos",
+      "Kil'Groth"
+    ],
+    "image": "193.jpg"
+  },
+  {
+    "name": "Yan",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "48.64%",
+    "play_rate": "5.44%",
+    "ban_rate": "0.14%",
+    "countered_heroes": [
+      "Zephys",
+      "Mortos",
+      "Superman"
+    ],
+    "image": "544.jpg"
+  },
+  {
+    "name": "Chaugnar",
+    "type": "แทงค์",
+    "win_rate": "48.63%",
+    "play_rate": "2.11%",
+    "ban_rate": "0.06%",
+    "countered_heroes": [
+      "Gildur",
+      "Baldum",
+      "Taara"
+    ],
+    "image": "113.jpg"
+  },
+  {
+    "name": "Laville",
+    "type": "แครี่",
+    "win_rate": "48.58%",
+    "play_rate": "4.25%",
+    "ban_rate": "0.02%",
+    "countered_heroes": [
+      "Thorne",
+      "Elsu",
+      "Yorn"
+    ],
+    "image": "533.jpg"
+  },
+  {
+    "name": "Superman",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "48.54%",
+    "play_rate": "0.58%",
+    "ban_rate": "0.05%",
+    "countered_heroes": [
+      "Dextra",
+      "Astrid",
+      "Biron"
+    ],
+    "image": "140.jpg"
+  },
+  {
+    "name": "Ishar",
+    "type": "เมจ",
+    "win_rate": "48.39%",
+    "play_rate": "7.99%",
+    "ban_rate": "0.36%",
+    "countered_heroes": [
+      "Natalya",
+      "Jinna",
+      "Mganga"
+    ],
+    "image": "526.jpg"
+  },
+  {
+    "name": "Gildur",
+    "type": "แทงค์",
+    "win_rate": "48.34%",
+    "play_rate": "8.86%",
+    "ban_rate": "0.1%",
+    "countered_heroes": [
+      "Taara",
+      "Baldum",
+      "Wiro"
+    ],
+    "image": "108.jpg"
+  },
+  {
+    "name": "Baldum",
+    "type": "แทงค์",
+    "win_rate": "48.3%",
+    "play_rate": "2.16%",
+    "ban_rate": "0.03%",
+    "countered_heroes": [
+      "Ormarr",
+      "Wiro",
+      "Taara"
+    ],
+    "image": "505.jpg"
+  },
+  {
+    "name": "Airi",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "48.24%",
+    "play_rate": "7.7%",
+    "ban_rate": "0.04%",
+    "countered_heroes": [
+      "Superman",
+      "Allain",
+      "Lu Bu"
+    ],
+    "image": "130.jpg"
+  },
+  {
+    "name": "Elsu",
+    "type": "แครี่",
+    "win_rate": "48.24%",
+    "play_rate": "17.43%",
+    "ban_rate": "5.82%",
+    "countered_heroes": [
+      "Yorn",
+      "Tel'Annas",
+      "Thorne"
+    ],
+    "image": "196.jpg"
+  },
+  {
+    "name": "Dextra",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "48.23%",
+    "play_rate": "0.7%",
+    "ban_rate": "0.02%",
+    "countered_heroes": [
+      "Lu Bu",
+      "Amily",
+      "Kil'Groth"
+    ],
+    "image": "534.jpg"
+  },
+  {
+    "name": "Kriknak",
+    "type": "แอสซาซิน",
+    "win_rate": "48.18%",
+    "play_rate": "3.54%",
+    "ban_rate": "0.03%",
+    "countered_heroes": [
+      "Butterfly",
+      "Paine",
+      "WuKong"
+    ],
+    "image": "162.jpg"
+  },
+  {
+    "name": "Rouie",
+    "type": "ซัพพอร์ท",
+    "win_rate": "48.08%",
+    "play_rate": "4.39%",
+    "ban_rate": "1.3%",
+    "countered_heroes": [
+      "Ata",
+      "Zip",
+      "Aya"
+    ],
+    "image": "191.jpg"
+  },
+  {
+    "name": "Yorn",
+    "type": "แครี่",
+    "win_rate": "47.97%",
+    "play_rate": "7.02%",
+    "ban_rate": "0.09%",
+    "countered_heroes": [
+      "Elsu",
+      "Laville",
+      "Lindis"
+    ],
+    "image": "112.jpg"
+  },
+  {
+    "name": "Kahlii",
+    "type": "เมจ",
+    "win_rate": "47.92%",
+    "play_rate": "5%",
+    "ban_rate": "0.07%",
+    "countered_heroes": [
+      "Natalya",
+      "Yue",
+      "Mganga"
+    ],
+    "image": "110.jpg"
+  },
+  {
+    "name": "Zuka",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "47.89%",
+    "play_rate": "7.81%",
+    "ban_rate": "0.04%",
+    "countered_heroes": [
+      "Allain",
+      "Mortos",
+      "Kil'Groth"
+    ],
+    "image": "503.jpg"
+  },
+  {
+    "name": "Lu Bu",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "47.87%",
+    "play_rate": "2.42%",
+    "ban_rate": "0.01%",
+    "countered_heroes": [
+      "Amily",
+      "Superman",
+      "Zanis"
+    ],
+    "image": "128.jpg"
+  },
+  {
+    "name": "Zanis",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "47.8%",
+    "play_rate": "11.29%",
+    "ban_rate": "0.09%",
+    "countered_heroes": [
+      "Mortos",
+      "Zephys",
+      "Omen"
+    ],
+    "image": "129.jpg"
+  },
+  {
+    "name": "Quillen",
+    "type": "แอสซาซิน",
+    "win_rate": "47.75%",
+    "play_rate": "5.13%",
+    "ban_rate": "0.24%",
+    "countered_heroes": [
+      "Butterfly",
+      "Paine",
+      "Kriknak"
+    ],
+    "image": "518.jpg"
+  },
+  {
+    "name": "Mganga",
+    "type": "เมจ",
+    "win_rate": "47.66%",
+    "play_rate": "5.44%",
+    "ban_rate": "0.1%",
+    "countered_heroes": [
+      "Jinna",
+      "Lorion",
+      "Natalya"
+    ],
+    "image": "119.jpg"
+  },
+  {
+    "name": "Kil'Groth",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "47.63%",
+    "play_rate": "3.32%",
+    "ban_rate": "0.07%",
+    "countered_heroes": [
+      "Superman",
+      "Lu Bu",
+      "Mortos"
+    ],
+    "image": "139.jpg"
+  },
+  {
+    "name": "WuKong",
+    "type": "แอสซาซิน",
+    "win_rate": "47.63%",
+    "play_rate": "16.25%",
+    "ban_rate": "0.8%",
+    "countered_heroes": [
+      "Paine",
+      "Quillen",
+      "Kriknak"
+    ],
+    "image": "167.jpg"
+  },
+  {
+    "name": "Aya",
+    "type": "ซัพพอร์ท",
+    "win_rate": "47.48%",
+    "play_rate": "11.48%",
+    "ban_rate": "17.19%",
+    "countered_heroes": [
+      "Ata",
+      "Helen",
+      "Rouie"
+    ],
+    "image": "543.jpg"
+  },
+  {
+    "name": "Jinna",
+    "type": "เมจ",
+    "win_rate": "47.44%",
+    "play_rate": "0.73%",
+    "ban_rate": "0.03%",
+    "countered_heroes": [
+      "Lorion",
+      "Kahlii",
+      "Iggy"
+    ],
+    "image": "115.jpg"
+  },
+  {
+    "name": "Natalya",
+    "type": "เมจ",
+    "win_rate": "47.14%",
+    "play_rate": "24.79%",
+    "ban_rate": "1.57%",
+    "countered_heroes": [
+      "Mganga",
+      "Jinna",
+      "Kahlii"
+    ],
+    "image": "142.jpg"
+  },
+  {
+    "name": "Allain",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "47.03%",
+    "play_rate": "18.98%",
+    "ban_rate": "0.81%",
+    "countered_heroes": [
+      "Mortos",
+      "Omen",
+      "Zanis"
+    ],
+    "image": "537.jpg"
+  },
+  {
+    "name": "Butterfly",
+    "type": "แอสซาซิน",
+    "win_rate": "46.75%",
+    "play_rate": "20.89%",
+    "ban_rate": "0.67%",
+    "countered_heroes": [
+      "WuKong",
+      "Paine",
+      "Quillen"
+    ],
+    "image": "116.jpg"
+  },
+  {
+    "name": "Taara",
+    "type": "แทงค์",
+    "win_rate": "46.72%",
+    "play_rate": "5.66%",
+    "ban_rate": "0.05%",
+    "countered_heroes": [
+      "Chaugnar",
+      "Baldum",
+      "Gildur"
+    ],
+    "image": "144.jpg"
+  },
+  {
+    "name": "Mortos",
+    "type": "ไฟต์เตอร์",
+    "win_rate": "46.51%",
+    "play_rate": "8.5%",
+    "ban_rate": "0.03%",
+    "countered_heroes": [
+      "Superman",
+      "Airi",
+      "Dextra"
+    ],
+    "image": "166.jpg"
+  },
+  {
+    "name": "Paine",
+    "type": "แอสซาซิน",
+    "win_rate": "46.36%",
+    "play_rate": "9.56%",
+    "ban_rate": "3.25%",
+    "countered_heroes": [
+      "Butterfly",
+      "Kriknak",
+      "Quillen"
+    ],
+    "image": "137.jpg"
+  }
+]
