@@ -4,8 +4,9 @@ import localFont from 'next/font/local';
 import ThemeRegistry from './ThemeRegistry';
 import Box from '@mui/joy/Box';
 import Typography from '@mui/joy/Typography'; // <-- Import Typography
-import Link from '@mui/joy/Link';           // <-- Import Link
+import Link from '@mui/joy/Link';
 import { SpeedInsights } from "@vercel/speed-insights/next";
+import { Analytics } from "@vercel/analytics/react"
 import './globals.css';
 
 // --- Font Setup ---
@@ -103,7 +104,8 @@ export default function RootLayout({ children }) {
                      </Link>
                  </Typography>
              </Box>
-
+            
+             <Analytics />
              <SpeedInsights />
 
           </Box>
