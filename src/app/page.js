@@ -168,7 +168,7 @@ export default function HomePage() {
                         lineHeight: 1.2,
                     }}
                 >
-                    🗺️ ค้นหาฮีโร่แก้ทางใก้ลฉัน 📍
+                    🗺️ ค้นหาฮีโร่แก้ทางใกล้ฉัน 📍
                 </Typography>
 
                 {/* Form Section */}
@@ -213,12 +213,18 @@ export default function HomePage() {
                             renderOption={(props, option) => {
                                 const { key, ...optionProps } = props;
                                 return (
-                                    <AutocompleteOption key={key} {...optionProps}>
-                                        <ListItemDecorator>
-                                            <Avatar size="sm" src={option.image ? `${HERO_IMAGE_BASE_PATH}${option.image}` : '/placeholder.png'} alt={option.name}/>
-                                        </ListItemDecorator>
-                                        <ListItemContent sx={{ fontSize: 'sm' }}>{option.name}</ListItemContent>
-                                    </AutocompleteOption>
+                                  <AutocompleteOption key={key} {...optionProps}>
+                                      <ListItemDecorator sx={{ mr: 0.2 }}>
+                                          <Avatar
+                                              size="sm"
+                                              src={option.image ? `${HERO_IMAGE_BASE_PATH}${option.image}` : '/placeholder.png'}
+                                              alt={option.name}
+                                          />
+                                      </ListItemDecorator>
+                                      <ListItemContent sx={{ fontSize: 'sm' }}>
+                                          {option.name}
+                                      </ListItemContent>
+                                  </AutocompleteOption>
                                 );
                             }}
                             size="sm" // Matched button size
