@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google'; // Or your local font setup
 import localFont from 'next/font/local';
 import ThemeRegistry from './ThemeRegistry';
 import Box from '@mui/joy/Box';
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import './globals.css'; // Import global styles
 
 // --- Font Setup (Assuming Noto Sans Thai + Inter Fallback) ---
